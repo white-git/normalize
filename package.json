@@ -1,10 +1,10 @@
 {
-  "name": "geodis-tree-node",
+  "name": "normalize",
   "version": "1.0.0",
-  "description": "",
+  "description": "Normalize script",
   "main": "index.js",
   "scripts": {
-    "normalize": "node normalize"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
