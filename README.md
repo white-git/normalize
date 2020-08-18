@@ -1,9 +1,11 @@
-# Processing serialized information (Tree)
+# Normalize JSON
 
-The next code runs in Node.js
-To run the code, use the next command.
+Normalize an entry input (json file) using an functional approach, every element
+in the entry contains a _entity property which allows to normalize (group). To
+run the scrip just write in the bash the next command:
 
 ```bash
-# Add the write to print the results in a json file.
-npm run normalize (write?)
+$ npm run start
+# or the short version.
+$ npm start
 ```
